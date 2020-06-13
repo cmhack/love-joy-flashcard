@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/SelectedFlashCard-html.css">
+	
+	<script type="text/javascript" src="js/lib/angular.js"></script>
+	<script type="text/javascript" src="js/lib/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="js/lib/bootstrap.min.js"></script>
+	
+	<script type="text/javascript" src="js/app.js"></script>
+	<script type="text/javascript" src="js/controller/SelectedFlashCardCtrl.js"></script>
+
+	<link id="link" rel="external" href="Chinese.json">
+	<link id="link" rel="external" href="English.json">
+	<link id="link" rel="external" href="idioms.json">
+	<link id="link" rel="external" href="Malay.json">
+	
+	<style>
+		@font-face {
+			font-family: ArchitectsDaughter;
+			src: url(ArchitectsDaughter.ttf);
+		}
+	</style>
+	
+</head>
+<body ng-app="app" ng-controller="SelectedFlashCardCtrl">
+	<div id="backgroundImage" class="container-fluid">
+		
+		<div class="topBar">
+			<span class="title">{{title}}</span>
+			<a href="flashCardSlides.html?cardID={{cardID}}&topicID={{firstIndex}}&firstIndex={{firstIndex}}&lastIndex={{lastIndex}}&playAll=1"><span class="title">Play all</span></a>
+			<img src="img/button/sound.png" ng-show="soundON" ng-click="playAudio(false); soundON = false" style="float:right"/>
+			<img src="img/button/sound_mute.png" ng-show="!soundON" ng-click="playAudio(true); soundON = true" style="float:right"/>
+			<a href="flashCard.html"><img src="img/button/previous.png" style="float:right"/></a>
+		</div>
+		
+		<table class="mainContent">
+			<tr>
+				<td style="width:10%; padding:1%">
+					<a ng-href="selectedFlashCard.html?cardID={{cardID-1}}" ng-show="cardID != 1">
+						<img src="img/button/back.png" style="float:right; width:100%"/>
+					</a>
+				</td>
+				<td style="width:40%; padding:1%; background:#E0E0E0">
+					<a ng-repeat="item in list1" ng-href="flashCardSlides.html?cardID={{cardID}}&topicID={{item._Index}}" style="text-decoration:none; color:black">
+						<div ng-class="{'listItem KaiTiFont':cardID==1 || cardID==2 || cardID==3 || cardID==4 || cardID==5 || cardID==6, 
+						'listItem': cardID==7 || cardID==8 || cardID==9 || cardID==10 || cardID==11 || cardID==12}">{{$index+1}}. {{item._Title}}</div>
+					</a>
+				</td>
+				<td style="width:40%; padding:1%; background:#E0E0E0">
+					<a ng-repeat="item in list2" ng-href="flashCardSlides.html?cardID={{cardID}}&topicID={{item._Index}}" style="text-decoration:none; color:black">
+						<div ng-class="{'listItem KaiTiFont':cardID==1 || cardID==2 || cardID==3 || cardID==4 || cardID==5 || cardID==6, 
+						'listItem': cardID==7 || cardID==8 || cardID==9 || cardID==10 || cardID==11 || cardID==12}">{{$index+ 1}}. {{item._Title}}</div>
+					</a>
+				</td>
+				<td style="width:10%; padding:1%">
+					<a ng-href="selectedFlashCard.html?cardID={{cardID+1}}" ng-show="cardID != 12">
+						<img src="img/button/next.png" style="float:left; width:100%"/>
+					</a>
+				</td>
+			</tr>
+		</table>
+
+	</div>
+	
+</body>
+</html>

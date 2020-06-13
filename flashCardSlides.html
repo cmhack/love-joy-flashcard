@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/animate.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/flashCardSlides-html.css">
+	
+	<script type="text/javascript" src="js/lib/angular.js"></script>
+	<script type="text/javascript" src="js/lib/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="js/lib/bootstrap.min.js"></script>
+	
+	<script type="text/javascript" src="js/app.js"></script>
+	<script type="text/javascript" src="js/controller/FlashCardSlidesCtrl.js"></script>
+
+	<style>
+		@font-face {
+			font-family: ArchitectsDaughter;
+			src: url(ArchitectsDaughter.ttf);
+		}
+	</style>
+	
+</head>
+<body ng-app="app" ng-controller="FlashCardSlidesCtrl">
+	<div class="container-fluid">
+		
+		<div class="row topBar">
+			<a ng-href="selectedFlashCard.html?cardID={{cardID}}"><img src="img/button/previous.png" style="float:right"/></a>
+			<img class="iconImage" src="img/button/pause.png" ng-show="autoPlay" ng-click="autoPlaySlide(false); autoPlay=false"/>
+			
+			<img class="iconImage" src="img/button/playBackward.png" ng-show="!autoPlay && currentIndex != 0"
+				ng-click="autoPlaySlide(true,'backward'); autoPlay=true"/>
+			<img class="iconImage" src="img/button/playForward.png" ng-show="!autoPlay && currentIndex != slides.length-1"
+				ng-click="autoPlaySlide(true,'forward'); autoPlay=true"/>
+			
+			<button class="btn btn-primary" id="button1" ng-click="speed(1)">x 1</button>
+			<button class="btn btn-primary" id="button1.5" ng-click="speed(1.5)">x 1.5</button>
+			<button class="btn btn-primary" id="button2" ng-click="speed(2)">x 2</button>
+			<button class="btn btn-primary" id="button2.5" ng-click="speed(2.5)">x 2.5</button>
+			<img class="iconImage" src="img/button/sound.png" ng-click="playAudio(slides[currentIndex])" style="float:right"/>
+		</div>
+		
+		<table class="cardContent" id="cardContent">
+			<tr>
+				<td style="width:10%; padding:1%">
+					<img class="iconImage" src="img/button/back.png" ng-click="decreaseIndex()" style="float:right; width:100%" ng-show="currentIndex != 0"/>
+				</td>
+				
+				<td style="width:80%; padding:1%">
+					<div id="flashCardSlides" class="slide" style="display:block">
+						<span style="font-size: 250%;" ng-show="false">{{cardTitle}} / ({{topicTitle}})</span>
+						
+
+						<!-------------------------------- for idioms only -------------------------------->
+						<table class="mainContent" ng-show="slides[currentIndex].Image == undefined && (cardID==1 ||  cardID==2 || cardID==3)">
+							<tr>
+								<td>
+									<span style="font-size: 1250%; font-family: KaiTi">{{slides[currentIndex].Text}}</span>
+								</td>
+							</tr>
+						</table>
+						
+						<!-------------------------------- for image only -------------------------------->
+						
+						<table class="mainContent" ng-show="slides[currentIndex].Image != undefined && (cardID==4 ||  cardID==5 || cardID==6)">
+							<tr>
+								<td style="width:50%">
+									<img id="chineseImage" ng-src="img/{{slides[currentIndex].Image}}.jpg" style="height:100%;width:auto" fallback-src="img/no_image.jpg"/>
+								</td>
+								<td class="text-center" style="width:50%;font-family: KaiTi" id="ChineseDiv" nowrap>
+									<span>{{slides[currentIndex].Text}}</span>
+								</td>
+							</tr>
+						</table>
+						
+						<table class="mainContent" ng-show="slides[currentIndex].Image != undefined && (cardID==7 ||  cardID==8 || cardID==9)">
+							<tr>
+								<td style="width:50%">
+									<img id="malayImage" ng-src="img/{{slides[currentIndex].Image}}.jpg" fallback-src="img/no_image.jpg"/>
+								</td>
+								<td class="text-center" style="width:50%" id="MalayDiv" nowrap>
+									<span ng-class="{'colorDarkBlue': $index%2 != 0, 'colorPink': $index%2 == 0}" 
+									ng-repeat="word in slides[currentIndex].customTextArray track by $index">{{word}}</span>
+								</td>
+							</tr>
+						</table>
+						
+						<table class="mainContent" ng-show="slides[currentIndex].Image != undefined && (cardID==10 ||  cardID==11 || cardID==12)">
+							<tr>
+								<td style="width:50%">
+									<img id="englishImage" ng-src="img/{{slides[currentIndex].Image}}.jpg" fallback-src="img/no_image.jpg"/>
+								</td>
+								<td class="text-center" style="width:50%" id="EnglishDiv" nowrap>
+									<span>{{slides[currentIndex].Text}}</span>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</td>
+				
+				<td style="width:10%; padding:1%">
+					<img class="iconImage" src="img/button/next.png" ng-click="increaseIndex()" style="float:left; width:100%" ng-show="currentIndex != slides.length-1"/>
+				</td>
+			</tr>
+		</table>
+		
+	</div>
+	
+</body>
+</html>
