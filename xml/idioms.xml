@@ -1,0 +1,3223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Topic Index="1" Title="一字成语">
+    <Slide Index="1">
+      <Text>一五一十</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="3855" End="5004" />
+    </Slide>
+    <Slide Index="2">
+      <Text>一龙一猪</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="5588" End="6625" />
+    </Slide>
+    <Slide Index="3">
+      <Text>一张一弛</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="7014" End="8143" />
+    </Slide>
+    <Slide Index="4">
+      <Text>一颦一笑</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="8343" End="9506" />
+    </Slide>
+    <Slide Index="5">
+      <Text>一板一眼</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="9901" End="10918" />
+    </Slide>
+    <Slide Index="6">
+      <Text>一年一度</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="11288" End="12320" />
+    </Slide>
+    <Slide Index="7">
+      <Text>一琴一鹤</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="12641" End="13785" />
+    </Slide>
+    <Slide Index="8">
+      <Text>一步一趋</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="14199" End="15513" />
+    </Slide>
+    <Slide Index="9">
+      <Text>一草一木</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="16964" End="17913" />
+    </Slide>
+    <Slide Index="10">
+      <Text>一家一火</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="18336" End="19373" />
+    </Slide>
+    <Slide Index="11">
+      <Text>一模一样</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="19762" End="20901" />
+    </Slide>
+    <Slide Index="12">
+      <Text>一生一世</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="21271" End="22371" />
+    </Slide>
+    <Slide Index="13">
+      <Text>一觞一咏</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="23063" End="24017" />
+    </Slide>
+    <Slide Index="14">
+      <Text>一举一动</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="24611" End="25681" />
+    </Slide>
+    <Slide Index="15">
+      <Text>一饮一啄</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="26222" End="27356" />
+    </Slide>
+    <Slide Index="16">
+      <Text>一心一德</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="27925" End="29079" />
+    </Slide>
+    <Slide Index="17">
+      <Text>一鳞一爪</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="30856" End="31878" />
+    </Slide>
+    <Slide Index="18">
+      <Text>一唱一和</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="32321" End="33460" />
+    </Slide>
+    <Slide Index="19">
+      <Text>一石二鸟</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="33883" End="35042" />
+    </Slide>
+    <Slide Index="20">
+      <Text>一清二白</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="35441" End="36614" />
+    </Slide>
+    <Slide Index="21">
+      <Text>一干二净</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="37003" End="38016" />
+    </Slide>
+    <Slide Index="22">
+      <Text>一清二楚</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="38357" End="39408" />
+    </Slide>
+    <Slide Index="23">
+      <Text>一差二错</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="39695" End="40708" />
+    </Slide>
+    <Slide Index="24">
+      <Text>一时半刻</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="41029" End="42100" />
+    </Slide>
+    <Slide Index="25">
+      <Text>一日三秋</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="43580" End="44777" />
+    </Slide>
+    <Slide Index="26">
+      <Text>一波三折</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="45030" End="46213" />
+    </Slide>
+    <Slide Index="27">
+      <Text>一飞冲天</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="46559" End="47805" />
+    </Slide>
+    <Slide Index="28">
+      <Text>一本万利</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="47970" End="48987" />
+    </Slide>
+    <Slide Index="29">
+      <Text>一表非凡</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="49294" End="50477" />
+    </Slide>
+    <Slide Index="30">
+      <Text>一举成名</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="50691" End="51786" />
+    </Slide>
+    <Slide Index="31">
+      <Text>一发千钧</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="52059" End="53178" />
+    </Slide>
+    <Slide Index="32">
+      <Text>一本正经</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="53500" End="54687" />
+    </Slide>
+    <Slide Index="33">
+      <Text>一尘不染</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="56221" End="57155" />
+    </Slide>
+    <Slide Index="34">
+      <Text>一举两全</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="57501" End="58747" />
+    </Slide>
+    <Slide Index="35">
+      <Text>一路风尘</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="59039" End="60173" />
+    </Slide>
+    <Slide Index="36">
+      <Text>一路顺风</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="60529" End="61546" />
+    </Slide>
+    <Slide Index="37">
+      <Text>一字不苟</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="61853" End="62792" />
+    </Slide>
+    <Slide Index="38">
+      <Text>一如既往</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="63157" End="64106" />
+    </Slide>
+    <Slide Index="39">
+      <Text>一吠百声</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="64496" End="65747" />
+    </Slide>
+    <Slide Index="40">
+      <Text>一视同仁</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="65980" End="67168" />
+    </Slide>
+    <Slide Index="41">
+      <Text>一呼百应</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="68614" End="69558" />
+    </Slide>
+    <Slide Index="42">
+      <Text>一面之交</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="69894" End="70921" />
+    </Slide>
+    <Slide Index="43">
+      <Text>一笔勾消</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="71208" End="72401" />
+    </Slide>
+    <Slide Index="44">
+      <Text>一掷千金</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="72756" End="73978" />
+    </Slide>
+    <Slide Index="45">
+      <Text>一望无际</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="74158" End="75097" />
+    </Slide>
+    <Slide Index="46">
+      <Text>一朝一夕</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="75341" End="76499" />
+    </Slide>
+    <Slide Index="47">
+      <Text>一落千丈</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="76723" End="77813" />
+    </Slide>
+    <Slide Index="48">
+      <Text>一触即发</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="78188" End="79254" />
+    </Slide>
+    <Slide Index="49">
+      <Text>一塌糊涂</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="80413" End="81484" />
+    </Slide>
+    <Slide Index="50">
+      <Text>一刀两断</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="81707" End="82671" />
+    </Slide>
+    <Slide Index="51">
+      <Text>一饥两饱</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="82866" End="83854" />
+    </Slide>
+    <Slide Index="52">
+      <Text>一般见识</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="84058" End="85047" />
+    </Slide>
+    <Slide Index="53">
+      <Text>一顾千金</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="85217" End="86244" />
+    </Slide>
+    <Slide Index="54">
+      <Text>一缘一会</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="86448" End="87432" />
+    </Slide>
+    <Slide Index="55">
+      <Text>一言千金</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="87612" End="88668" />
+    </Slide>
+    <Slide Index="56">
+      <Text>一日之雅</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="88897" End="89812" />
+    </Slide>
+    <Slide Index="57">
+      <Text>一无可取</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="91253" End="92202" />
+    </Slide>
+    <Slide Index="58">
+      <Text>一牛鸣地</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="92416" End="93414" />
+    </Slide>
+    <Slide Index="59">
+      <Text>一寒如此</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="93599" End="94689" />
+    </Slide>
+    <Slide Index="60">
+      <Text>一点灵犀</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="94899" End="95935" />
+    </Slide>
+    <Slide Index="61">
+      <Text>一筹莫展</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="96106" End="97138" />
+    </Slide>
+    <Slide Index="62">
+      <Text>一泻千里</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="97381" End="98355" />
+    </Slide>
+    <Slide Index="63">
+      <Text>一劳永逸</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="98583" End="99591" />
+    </Slide>
+    <Slide Index="64">
+      <Text>一文不名</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="99888" End="100827" />
+    </Slide>
+    <Slide Index="65">
+      <Text>一衣带水</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="102034" End="103027" />
+    </Slide>
+    <Slide Index="66">
+      <Text>一碧万顷</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="103256" End="104410" />
+    </Slide>
+    <Slide Index="67">
+      <Text>一鼓作气</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="104658" End="105656" />
+    </Slide>
+    <Slide Index="68">
+      <Text>一叶知秋</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="105851" End="106960" />
+    </Slide>
+    <Slide Index="69">
+      <Text>一览无余</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="107204" End="108270" />
+    </Slide>
+    <Slide Index="70">
+      <Text>一语中的</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="108557" End="109487" />
+    </Slide>
+    <Slide Index="71">
+      <Text>一拍即合</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="109978" End="111186" />
+    </Slide>
+    <Slide Index="72">
+      <Text>一目了然</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="111361" End="112329" />
+    </Slide>
+    <Slide Index="73">
+      <Text>一意孤行</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="113697" End="114817" />
+    </Slide>
+    <Slide Index="74">
+      <Text>一念之差</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="114914" End="115956" />
+    </Slide>
+    <Slide Index="75">
+      <Text>一见钟情</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="116253" End="117367" />
+    </Slide>
+    <Slide Index="76">
+      <Text>一刻千金</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="117577" End="118706" />
+    </Slide>
+    <Slide Index="77">
+      <Text>一知半解</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="118949" End="119962" />
+    </Slide>
+    <Slide Index="78">
+      <Text>一窍不通</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="120118" End="121266" />
+    </Slide>
+    <Slide Index="79">
+      <Text>一厢情愿</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="121451" End="122576" />
+    </Slide>
+    <Slide Index="80">
+      <Text>一盘散沙</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="122761" End="124026" />
+    </Slide>
+    <Slide Index="81">
+      <Text>一语破的</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="125209" End="126202" />
+    </Slide>
+    <Slide Index="82">
+      <Text>一往情深</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="126514" End="127623" />
+    </Slide>
+    <Slide Index="83">
+      <Text>一笑置之</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="127687" End="128733" />
+    </Slide>
+    <Slide Index="84">
+      <Text>一贫如洗</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="128913" End="129911" />
+    </Slide>
+    <Slide Index="85">
+      <Text>一牛吼地</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="130111" End="131133" />
+    </Slide>
+    <Slide Index="86">
+      <Text>一吐为快</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="131342" End="132335" />
+    </Slide>
+    <Slide Index="87">
+      <Text>一言为定</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="132583" End="133625" />
+    </Slide>
+    <Slide Index="88">
+      <Text>一手遮天</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="133854" End="134998" />
+    </Slide>
+    <Slide Index="89">
+      <Text>一柱擎天</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="136186" End="137339" />
+    </Slide>
+    <Slide Index="90">
+      <Text>一概而论</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="137758" End="138673" />
+    </Slide>
+    <Slide Index="91">
+      <Text>一秉虔诚</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="139121" End="140391" />
+    </Slide>
+    <Slide Index="92">
+      <Text>一把死拿</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="140542" End="141535" />
+    </Slide>
+    <Slide Index="93">
+      <Text>一扫而光</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="141710" End="142766" />
+    </Slide>
+    <Slide Index="94">
+      <Text>一网打尽</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="143029" End="144052" />
+    </Slide>
+    <Slide Index="95">
+      <Text>一毫不差</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="144324" End="145395" />
+    </Slide>
+    <Slide Index="96">
+      <Text>一病不起</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="145580" End="146519" />
+    </Slide>
+    <Slide Index="97">
+      <Text>一反常态</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="148165" End="149187" />
+    </Slide>
+    <Slide Index="98">
+      <Text>一年半载</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="149435" End="150404" />
+    </Slide>
+    <Slide Index="99">
+      <Text>一来二去</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="150754" End="151757" />
+    </Slide>
+    <Slide Index="100">
+      <Text>一索得男</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="151918" End="153023" />
+    </Slide>
+    <Slide Index="101">
+      <Text>一木难支</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="153134" End="154166" />
+    </Slide>
+    <Slide Index="102">
+      <Text>一笑倾城</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="154361" End="155524" />
+    </Slide>
+    <Slide Index="103">
+      <Text>一场春梦</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="155563" End="156605" />
+    </Slide>
+    <Slide Index="104">
+      <Text>一息尚存</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="156819" End="158056" />
+    </Slide>
+  </Topic>
+  <Topic Index="2" Title="二字成语">
+    <Slide Index="1">
+      <Text>二童一马</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="159428" End="160402" />
+    </Slide>
+    <Slide Index="2">
+      <Text>二人同心</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="160621" End="161721" />
+    </Slide>
+    <Slide Index="3">
+      <Text>二八女郎</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="161872" End="162918" />
+    </Slide>
+    <Slide Index="4">
+      <Text>二三其节</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="163103" End="164194" />
+    </Slide>
+    <Slide Index="5">
+      <Text>二分明月</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="164437" End="165347" />
+    </Slide>
+    <Slide Index="6">
+      <Text>二龙戏珠</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="165591" End="166657" />
+    </Slide>
+    <Slide Index="7">
+      <Text>二仙传道</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="166861" End="167971" />
+    </Slide>
+    <Slide Index="8">
+      <Text>二旬九食</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="168170" End="169387" />
+    </Slide>
+    <Slide Index="9">
+      <Text>二次三番</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="170633" End="171763" />
+    </Slide>
+    <Slide Index="10">
+      <Text>二缶钟惑</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="172079" End="173184" />
+    </Slide>
+    <Slide Index="11">
+      <Text>二姓之好</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="173481" End="174464" />
+    </Slide>
+    <Slide Index="12">
+      <Text>二话没说</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="174698" End="175730" />
+    </Slide>
+    <Slide Index="13">
+      <Text>二竖为灾</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="175954" End="177132" />
+    </Slide>
+    <Slide Index="14">
+      <Text>二道贩子</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="177414" End="178373" />
+    </Slide>
+    <Slide Index="15">
+      <Text>二惠竞爽</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="178670" End="179755" />
+    </Slide>
+    <Slide Index="16">
+      <Text>二意三心</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="179843" End="181016" />
+    </Slide>
+  </Topic>
+  <Topic Index="3" Title="三字成语">
+    <Slide Index="1">
+      <Text>三十而立</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="182194" End="183221" />
+    </Slide>
+    <Slide Index="2">
+      <Text>三尸暴跳</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="183391" End="184691" />
+    </Slide>
+    <Slide Index="3">
+      <Text>三夫之言</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="184900" End="185996" />
+    </Slide>
+    <Slide Index="4">
+      <Text>三长四短</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="186049" End="187105" />
+    </Slide>
+    <Slide Index="5">
+      <Text>三五成群</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="187276" End="188493" />
+    </Slide>
+    <Slide Index="6">
+      <Text>三从四德</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="188600" End="189797" />
+    </Slide>
+    <Slide Index="7">
+      <Text>三长两短</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="189958" End="191116" />
+    </Slide>
+    <Slide Index="8">
+      <Text>三不拗六</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="191282" End="192353" />
+    </Slide>
+    <Slide Index="9">
+      <Text>三冬二夏</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="193526" End="194713" />
+    </Slide>
+    <Slide Index="10">
+      <Text>三对六面</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="194884" End="195984" />
+    </Slide>
+    <Slide Index="11">
+      <Text>三年之艾</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="196159" End="197298" />
+    </Slide>
+    <Slide Index="12">
+      <Text>三头六臂</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="197478" End="198656" />
+    </Slide>
+    <Slide Index="13">
+      <Text>三头两日</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="198802" End="200039" />
+    </Slide>
+    <Slide Index="14">
+      <Text>三生有幸</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="200185" End="201367" />
+    </Slide>
+    <Slide Index="15">
+      <Text>三好二怯</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="201455" End="202696" />
+    </Slide>
+    <Slide Index="16">
+      <Text>三迁之教</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="202769" End="203991" />
+    </Slide>
+    <Slide Index="17">
+      <Text>三求四告</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="205534" End="206819" />
+    </Slide>
+    <Slide Index="18">
+      <Text>三更半夜</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="206980" End="208177" />
+    </Slide>
+    <Slide Index="19">
+      <Text>三言两句</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="208226" End="209482" />
+    </Slide>
+    <Slide Index="20">
+      <Text>三步两脚</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="209608" End="210879" />
+    </Slide>
+    <Slide Index="21">
+      <Text>三环五扣</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="211064" End="212412" />
+    </Slide>
+    <Slide Index="22">
+      <Text>三姑六婆</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="212558" End="213848" />
+    </Slide>
+    <Slide Index="23">
+      <Text>三妻四妾</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="213994" End="215230" />
+    </Slide>
+    <Slide Index="24">
+      <Text>三迭阳关</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="215318" End="216584" />
+    </Slide>
+    <Slide Index="25">
+      <Text>三茶六饭</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="217937" End="219207" />
+    </Slide>
+    <Slide Index="26">
+      <Text>三宫六院</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="219392" End="220633" />
+    </Slide>
+    <Slide Index="27">
+      <Text>三亲六故</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="220794" End="222050" />
+    </Slide>
+    <Slide Index="28">
+      <Text>三病四痛</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="222181" End="223515" />
+    </Slide>
+    <Slide Index="29">
+      <Text>三般两样</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="223617" End="224810" />
+    </Slide>
+    <Slide Index="30">
+      <Text>三差两错</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="224985" End="226241" />
+    </Slide>
+    <Slide Index="31">
+      <Text>三拳两脚</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="226363" End="227502" />
+    </Slide>
+    <Slide Index="32">
+      <Text>三推六问</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="227667" End="228874" />
+    </Slide>
+    <Slide Index="33">
+      <Text>三跪九叩</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="230227" End="231425" />
+    </Slide>
+    <Slide Index="34">
+      <Text>三等九般</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="231605" End="232953" />
+    </Slide>
+    <Slide Index="35">
+      <Text>三魂出窍</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="233094" End="234316" />
+    </Slide>
+    <Slide Index="36">
+      <Text>三街六市</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="234433" End="235621" />
+    </Slide>
+    <Slide Index="37">
+      <Text>三番两次</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="235849" End="237096" />
+    </Slide>
+    <Slide Index="38">
+      <Text>三翻四复</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="237246" End="238439" />
+    </Slide>
+    <Slide Index="39">
+      <Text>三榜定案</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="238595" End="239763" />
+    </Slide>
+    <Slide Index="40">
+      <Text>三朝五日</Text>
+      <AudioSource>VCY1.mp3</AudioSource>
+      <TimeFrame Start="239875" End="240995" />
+    </Slide>
+  </Topic>
+  <Topic Index="4" Title="四字成语">
+    <Slide Index="1">
+      <Text>四马攒蹄</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="4373" End="5491" />
+    </Slide>
+    <Slide Index="2">
+      <Text>四方八面</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="5690" End="6730" />
+    </Slide>
+    <Slide Index="3">
+      <Text>四不拗六</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="6910" End="8028" />
+    </Slide>
+    <Slide Index="4">
+      <Text>四平八稳</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="8168" End="9217" />
+    </Slide>
+    <Slide Index="5">
+      <Text>四时充美</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="9590" End="10627" />
+    </Slide>
+    <Slide Index="6">
+      <Text>四角俱全</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="11078" End="12276" />
+    </Slide>
+    <Slide Index="7">
+      <Text>四郊多垒</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="12603" End="13646" />
+    </Slide>
+    <Slide Index="8">
+      <Text>四肢百骸</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="13970" End="15165" />
+    </Slide>
+    <Slide Index="9">
+      <Text>四亭八当</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="16457" End="17540" />
+    </Slide>
+    <Slide Index="10">
+      <Text>四荒八极</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="17730" End="18872" />
+    </Slide>
+    <Slide Index="11">
+      <Text>四姻九戚</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="19103" End="20329" />
+    </Slide>
+    <Slide Index="12">
+      <Text>四战之地</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="20516" End="21689" />
+    </Slide>
+    <Slide Index="13">
+      <Text>四面出击</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="21963" End="23149" />
+    </Slide>
+    <Slide Index="14">
+      <Text>四面受敌</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="23364" End="24606" />
+    </Slide>
+    <Slide Index="15">
+      <Text>四海九州</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="24833" End="26097" />
+    </Slide>
+    <Slide Index="16">
+      <Text>四通八达</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="26305" End="27498" />
+    </Slide>
+    <Slide Index="17">
+      <Text>四海他人</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="28989" End="30094" />
+    </Slide>
+    <Slide Index="18">
+      <Text>四海承风</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="30318" End="31429" />
+    </Slide>
+    <Slide Index="19">
+      <Text>四海昇平</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="31737" End="32867" />
+    </Slide>
+    <Slide Index="20">
+      <Text>四海波静</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="33144" End="34289" />
+    </Slide>
+    <Slide Index="21">
+      <Text>四海鼎沸</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="34573" End="35668" />
+    </Slide>
+    <Slide Index="22">
+      <Text>四海飘零</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="36020" End="37125" />
+    </Slide>
+    <Slide Index="23">
+      <Text>四清六活</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="37368" End="38445" />
+    </Slide>
+    <Slide Index="24">
+      <Text>四脚朝天</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="38697" End="39796" />
+    </Slide>
+  </Topic>
+  <Topic Index="5" Title="五字成语">
+    <Slide Index="1">
+      <Text>五光十色</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="41551" End="42575" />
+    </Slide>
+    <Slide Index="2">
+      <Text>五大三粗</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="42896" End="43973" />
+    </Slide>
+    <Slide Index="3">
+      <Text>五马分尸</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="44359" End="45377" />
+    </Slide>
+    <Slide Index="4">
+      <Text>五子登科</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="45607" End="46725" />
+    </Slide>
+    <Slide Index="5">
+      <Text>五风十雨</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="47058" End="48141" />
+    </Slide>
+    <Slide Index="6">
+      <Text>五斗折腰</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="48446" End="49585" />
+    </Slide>
+    <Slide Index="7">
+      <Text>五方杂处</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="49756" End="50790" />
+    </Slide>
+    <Slide Index="8">
+      <Text>五车腹笥</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="51226" End="52315" />
+    </Slide>
+    <Slide Index="9">
+      <Text>五行八作</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="53694" End="54693" />
+    </Slide>
+    <Slide Index="10">
+      <Text>五劳七伤</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="55048" End="56162" />
+    </Slide>
+    <Slide Index="11">
+      <Text>五谷不分</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="56523" End="57579" />
+    </Slide>
+    <Slide Index="12">
+      <Text>五抢六夺</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="57921" End="59010" />
+    </Slide>
+    <Slide Index="13">
+      <Text>五角六张</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="59375" End="60486" />
+    </Slide>
+    <Slide Index="14">
+      <Text>五谷丰登</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="60869" End="61921" />
+    </Slide>
+    <Slide Index="15">
+      <Text>五花杀马</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="62319" End="63374" />
+    </Slide>
+    <Slide Index="16">
+      <Text>五体投地</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="63748" End="64648" />
+    </Slide>
+    <Slide Index="17">
+      <Text>五里雾中</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="66160" End="67240" />
+    </Slide>
+    <Slide Index="18">
+      <Text>五味俱全</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="67630" End="68756" />
+    </Slide>
+    <Slide Index="19">
+      <Text>五脏六腑</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="69117" End="70104" />
+    </Slide>
+    <Slide Index="20">
+      <Text>五积六受</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="70580" End="71620" />
+    </Slide>
+    <Slide Index="21">
+      <Text>五脊六兽</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="71897" End="72906" />
+    </Slide>
+    <Slide Index="22">
+      <Text>五虚六耗</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="73298" End="74334" />
+    </Slide>
+    <Slide Index="23">
+      <Text>五雀六燕</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="74817" End="75803" />
+    </Slide>
+    <Slide Index="24">
+      <Text>五湖四海</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="76233" End="77179" />
+    </Slide>
+    <Slide Index="25">
+      <Text>五短身材</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="78754" End="79853" />
+    </Slide>
+    <Slide Index="26">
+      <Text>五零四散</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="80080" End="81076" />
+    </Slide>
+    <Slide Index="27">
+      <Text>五颜六色</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="81403" End="82471" />
+    </Slide>
+    <Slide Index="28">
+      <Text>五彩缤纷</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="82754" End="83837" />
+    </Slide>
+  </Topic>
+  <Topic Index="6" Title="六字成语">
+    <Slide Index="1">
+      <Text>六臂三头</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="84189" End="85338" />
+    </Slide>
+    <Slide Index="2">
+      <Text>六尘不染</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="85599" End="86605" />
+    </Slide>
+    <Slide Index="3">
+      <Text>六尺之孤</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="86941" End="88030" />
+    </Slide>
+    <Slide Index="4">
+      <Text>六尺之托</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="88301" End="89493" />
+    </Slide>
+    <Slide Index="5">
+      <Text>六出奇计</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="91015" End="92148" />
+    </Slide>
+    <Slide Index="6">
+      <Text>六道轮回</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="92491" End="93639" />
+    </Slide>
+    <Slide Index="7">
+      <Text>六根清净</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="94000" End="95099" />
+    </Slide>
+    <Slide Index="8">
+      <Text>六街三市</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="95255" End="96245" />
+    </Slide>
+    <Slide Index="9">
+      <Text>六亲不认</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="96553" End="97542" />
+    </Slide>
+    <Slide Index="10">
+      <Text>六亲无靠</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="97922" End="99037" />
+    </Slide>
+    <Slide Index="11">
+      <Text>六神不安</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="99266" End="100313" />
+    </Slide>
+    <Slide Index="12">
+      <Text>六神无主</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="100584" End="101521" />
+    </Slide>
+    <Slide Index="13">
+      <Text>六韬三略</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="103124" End="104219" />
+    </Slide>
+    <Slide Index="14">
+      <Text>六通四辟</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="104686" End="105701" />
+    </Slide>
+    <Slide Index="15">
+      <Text>六通四达</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="106137" End="107229" />
+    </Slide>
+    <Slide Index="16">
+      <Text>六问三推</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="107590" End="108720" />
+    </Slide>
+    <Slide Index="17">
+      <Text>六畜兴旺</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="109128" End="110221" />
+    </Slide>
+    <Slide Index="18">
+      <Text>六出纷飞</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="110535" End="111671" />
+    </Slide>
+    <Slide Index="19">
+      <Text>六月飞霜</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="112113" End="113243" />
+    </Slide>
+    <Slide Index="20">
+      <Text>六畜不安</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="113548" End="114616" />
+    </Slide>
+  </Topic>
+  <Topic Index="7" Title="七字成语">
+    <Slide Index="1">
+      <Text>七零八碎</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="116066" End="117218" />
+    </Slide>
+    <Slide Index="2">
+      <Text>七开八得</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="117548" End="118752" />
+    </Slide>
+    <Slide Index="3">
+      <Text>七病八倒</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="119051" End="120113" />
+    </Slide>
+    <Slide Index="4">
+      <Text>七病八痛</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="120436" End="121579" />
+    </Slide>
+    <Slide Index="5">
+      <Text>七步八叉</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="121974" End="123141" />
+    </Slide>
+    <Slide Index="6">
+      <Text>七步成诗</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="123400" End="124576" />
+    </Slide>
+    <Slide Index="7">
+      <Text>七步之才</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="124900" End="126173" />
+    </Slide>
+    <Slide Index="8">
+      <Text>七长八短</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="126413" End="127540" />
+    </Slide>
+    <Slide Index="9">
+      <Text>七穿八洞</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="129164" End="130276" />
+    </Slide>
+    <Slide Index="10">
+      <Text>七疮八孔</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="130646" End="131776" />
+    </Slide>
+    <Slide Index="11">
+      <Text>七搭八搭</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="132056" End="133183" />
+    </Slide>
+    <Slide Index="12">
+      <Text>七大八小</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="133451" End="134537" />
+    </Slide>
+    <Slide Index="13">
+      <Text>七担八挪</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="134858" End="136047" />
+    </Slide>
+    <Slide Index="14">
+      <Text>七颠八倒</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="136249" End="137326" />
+    </Slide>
+    <Slide Index="15">
+      <Text>七断八续</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="137631" End="138739" />
+    </Slide>
+    <Slide Index="16">
+      <Text>七高八低</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="139050" End="140211" />
+    </Slide>
+    <Slide Index="17">
+      <Text>七拱八翘</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="141995" End="143150" />
+    </Slide>
+    <Slide Index="18">
+      <Text>七横八竖</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="143433" End="144479" />
+    </Slide>
+    <Slide Index="19">
+      <Text>七情六欲</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="144843" End="145920" />
+    </Slide>
+    <Slide Index="20">
+      <Text>七事八事</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="146222" End="147333" />
+    </Slide>
+    <Slide Index="21">
+      <Text>七手八脚</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="147641" End="148737" />
+    </Slide>
+    <Slide Index="22">
+      <Text>七十二行</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="148998" End="150138" />
+    </Slide>
+    <Slide Index="23">
+      <Text>七折八扣</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="150374" End="151504" />
+    </Slide>
+    <Slide Index="24">
+      <Text>七拼八凑</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="151763" End="152914" />
+    </Slide>
+    <Slide Index="25">
+      <Text>七青八黄</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="154776" End="155887" />
+    </Slide>
+    <Slide Index="26">
+      <Text>七行俱下</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="156179" End="157294" />
+    </Slide>
+    <Slide Index="27">
+      <Text>七死八活</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="157586" End="158747" />
+    </Slide>
+    <Slide Index="28">
+      <Text>七扭八歪</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="158981" End="160139" />
+    </Slide>
+    <Slide Index="29">
+      <Text>七上八下</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="160357" End="161518" />
+    </Slide>
+    <Slide Index="30">
+      <Text>七推八阻</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="161770" End="162890" />
+    </Slide>
+    <Slide Index="31">
+      <Text>七窍生烟</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="163158" End="164335" />
+    </Slide>
+    <Slide Index="32">
+      <Text>七嘴八舌</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="164546" End="165689" />
+    </Slide>
+    <Slide Index="33">
+      <Text>七捞八攘</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="167149" End="168244" />
+    </Slide>
+    <Slide Index="34">
+      <Text>七老八十</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="168496" End="169661" />
+    </Slide>
+    <Slide Index="35">
+      <Text>七了八当</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="169938" End="171099" />
+    </Slide>
+    <Slide Index="36">
+      <Text>七满八平</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="171407" End="172618" />
+    </Slide>
+    <Slide Index="37">
+      <Text>七破八补</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="172839" End="173953" />
+    </Slide>
+    <Slide Index="38">
+      <Text>七七八八</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="174348" End="175428" />
+    </Slide>
+    <Slide Index="39">
+      <Text>七窍玲珑</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="175758" End="176885" />
+    </Slide>
+    <Slide Index="40">
+      <Text>七贞九烈</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="177184" End="178236" />
+    </Slide>
+  </Topic>
+  <Topic Index="8" Title="八字成语">
+    <Slide Index="1">
+      <Text>八拜之交</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="179880" End="180944" />
+    </Slide>
+    <Slide Index="2">
+      <Text>八窗玲珑</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="181262" End="182326" />
+    </Slide>
+    <Slide Index="3">
+      <Text>八方呼应</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="182640" End="183609" />
+    </Slide>
+    <Slide Index="4">
+      <Text>八府巡按</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="183995" End="185003" />
+    </Slide>
+    <Slide Index="5">
+      <Text>八纮同轨</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="185364" End="186341" />
+    </Slide>
+    <Slide Index="6">
+      <Text>八面见光</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="186802" End="187867" />
+    </Slide>
+    <Slide Index="7">
+      <Text>八面玲珑</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="188237" End="189249" />
+    </Slide>
+    <Slide Index="8">
+      <Text>八面驶风</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="189685" End="190693" />
+    </Slide>
+    <Slide Index="9">
+      <Text>八面受敌</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="192383" End="193432" />
+    </Slide>
+    <Slide Index="10">
+      <Text>八面威风</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="193824" End="194777" />
+    </Slide>
+    <Slide Index="11">
+      <Text>八面莹澈</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="195126" End="196143" />
+    </Slide>
+    <Slide Index="12">
+      <Text>八面张罗</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="196464" End="197541" />
+    </Slide>
+    <Slide Index="13">
+      <Text>八万四千</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="197834" End="198926" />
+    </Slide>
+    <Slide Index="14">
+      <Text>八仙过海</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="199262" End="200274" />
+    </Slide>
+    <Slide Index="15">
+      <Text>八音遏密</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="200582" End="201500" />
+    </Slide>
+    <Slide Index="16">
+      <Text>八珍玉食</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="201896" End="202970" />
+    </Slide>
+    <Slide Index="17">
+      <Text>八字打开</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="204566" End="205640" />
+    </Slide>
+    <Slide Index="18">
+      <Text>八方风雨</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="206014" End="206997" />
+    </Slide>
+    <Slide Index="19">
+      <Text>八方支援</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="207455" End="208485" />
+    </Slide>
+    <Slide Index="20">
+      <Text>八百孤寒</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="208787" End="209877" />
+    </Slide>
+    <Slide Index="21">
+      <Text>八斗之才</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="210256" End="211308" />
+    </Slide>
+    <Slide Index="22">
+      <Text>八荒之外</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="211676" End="212694" />
+    </Slide>
+    <Slide Index="23">
+      <Text>八街九陌</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="213067" End="214122" />
+    </Slide>
+    <Slide Index="24">
+      <Text>八公草木</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="214471" End="215433" />
+    </Slide>
+    <Slide Index="25">
+      <Text>八攻八克</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="217076" End="218113" />
+    </Slide>
+    <Slide Index="26">
+      <Text>八花九裂</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="218418" End="219358" />
+    </Slide>
+    <Slide Index="27">
+      <Text>八门五花</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="219713" End="220724" />
+    </Slide>
+    <Slide Index="28">
+      <Text>八抬大轿</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="221014" End="222029" />
+    </Slide>
+  </Topic>
+  <Topic Index="9" Title="九字成语">
+    <Slide Index="1">
+      <Text>九变十化</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="222309" End="223395" />
+    </Slide>
+    <Slide Index="2">
+      <Text>九鼎一丝</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="223600" End="224761" />
+    </Slide>
+    <Slide Index="3">
+      <Text>九故十亲</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="224979" End="226087" />
+    </Slide>
+    <Slide Index="4">
+      <Text>九关虎豹</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="226349" End="227463" />
+    </Slide>
+    <Slide Index="5">
+      <Text>九间朝殿</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="228596" End="229658" />
+    </Slide>
+    <Slide Index="6">
+      <Text>九江八河</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="230025" End="231090" />
+    </Slide>
+    <Slide Index="7">
+      <Text>九九归一</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="231382" End="232428" />
+    </Slide>
+    <Slide Index="8">
+      <Text>九九归原</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="232830" End="233975" />
+    </Slide>
+    <Slide Index="9">
+      <Text>九烈三贞</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="234246" End="235345" />
+    </Slide>
+    <Slide Index="10">
+      <Text>九流宾客</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="235662" End="236755" />
+    </Slide>
+    <Slide Index="11">
+      <Text>九流三教</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="237022" End="238124" />
+    </Slide>
+    <Slide Index="12">
+      <Text>九牛一毫</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="238305" End="239391" />
+    </Slide>
+    <Slide Index="13">
+      <Text>九牛一毛</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="240686" End="241744" />
+    </Slide>
+    <Slide Index="14">
+      <Text>九衢三市</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="242009" End="243083" />
+    </Slide>
+    <Slide Index="15">
+      <Text>九仞一篑</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="243394" End="244365" />
+    </Slide>
+    <Slide Index="16">
+      <Text>九死一生</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="244680" End="245713" />
+    </Slide>
+    <Slide Index="17">
+      <Text>九霄云外</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="245987" End="247045" />
+    </Slide>
+    <Slide Index="18">
+      <Text>九行八业</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="247350" End="248340" />
+    </Slide>
+    <Slide Index="19">
+      <Text>九泉之下</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="248673" End="249747" />
+    </Slide>
+    <Slide Index="20">
+      <Text>九天仙女</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="250009" End="251045" />
+    </Slide>
+    <Slide Index="21">
+      <Text>九洲四海</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="252184" End="253180" />
+    </Slide>
+    <Slide Index="22">
+      <Text>九转功成</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="253520" End="254603" />
+    </Slide>
+    <Slide Index="23">
+      <Text>九回肠断</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="254852" End="255907" />
+    </Slide>
+    <Slide Index="24">
+      <Text>九流人物</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="256246" End="257252" />
+    </Slide>
+    <Slide Index="25">
+      <Text>九曲回肠</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="257554" End="258687" />
+    </Slide>
+    <Slide Index="26">
+      <Text>九鼎大吕</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="258961" End="259926" />
+    </Slide>
+    <Slide Index="27">
+      <Text>九天揽月</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="260280" End="261367" />
+    </Slide>
+    <Slide Index="28">
+      <Text>九死不悔</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="261622" End="262631" />
+    </Slide>
+  </Topic>
+  <Topic Index="10" Title="十字成语">
+    <Slide Index="1">
+      <Text>十病九痛</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="264150" End="265273" />
+    </Slide>
+    <Slide Index="2">
+      <Text>十不当一</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="265476" End="266553" />
+    </Slide>
+    <Slide Index="3">
+      <Text>十成九稳</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="266721" End="267689" />
+    </Slide>
+    <Slide Index="4">
+      <Text>十恶不赦</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="267885" End="268896" />
+    </Slide>
+    <Slide Index="5">
+      <Text>十恶五逆</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="269099" End="270054" />
+    </Slide>
+    <Slide Index="6">
+      <Text>十二金钗</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="270381" End="271455" />
+    </Slide>
+    <Slide Index="7">
+      <Text>十二金牌</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="271623" End="272635" />
+    </Slide>
+    <Slide Index="8">
+      <Text>十二万分</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="272818" End="273765" />
+    </Slide>
+    <Slide Index="9">
+      <Text>十发十中</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="275458" End="276610" />
+    </Slide>
+    <Slide Index="10">
+      <Text>十风五雨</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="276837" End="277895" />
+    </Slide>
+    <Slide Index="11">
+      <Text>十夫楺椎</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="278172" End="279343" />
+    </Slide>
+    <Slide Index="12">
+      <Text>十光五色</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="279473" End="280510" />
+    </Slide>
+    <Slide Index="13">
+      <Text>十寒一暴</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="280665" End="281696" />
+    </Slide>
+    <Slide Index="14">
+      <Text>十浆五馈</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="281920" End="283034" />
+    </Slide>
+    <Slide Index="15">
+      <Text>十拷九棒</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="283289" End="284370" />
+    </Slide>
+    <Slide Index="16">
+      <Text>十口相传</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="284628" End="285836" />
+    </Slide>
+    <Slide Index="17">
+      <Text>十里洋场</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="286885" End="288002" />
+    </Slide>
+    <Slide Index="18">
+      <Text>十米九糠</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="288223" End="289350" />
+    </Slide>
+    <Slide Index="19">
+      <Text>十死一生</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="289580" End="290841" />
+    </Slide>
+    <Slide Index="20">
+      <Text>十室九空</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="291028" End="292251" />
+    </Slide>
+    <Slide Index="21">
+      <Text>十鼠同穴</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="292425" End="293630" />
+    </Slide>
+    <Slide Index="22">
+      <Text>十面埋伏</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="293876" End="295052" />
+    </Slide>
+    <Slide Index="23">
+      <Text>十万火急</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="295364" End="296456" />
+    </Slide>
+    <Slide Index="24">
+      <Text>十日之饮</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="296761" End="298034" />
+    </Slide>
+    <Slide Index="25">
+      <Text>十字街头</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="299142" End="300360" />
+    </Slide>
+    <Slide Index="26">
+      <Text>十之八九</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="300521" End="301636" />
+    </Slide>
+    <Slide Index="27">
+      <Text>十步香草</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="301872" End="303033" />
+    </Slide>
+    <Slide Index="28">
+      <Text>十年寒窗</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="303239" End="304409" />
+    </Slide>
+    <Slide Index="29">
+      <Text>十全十美</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="304621" End="305667" />
+    </Slide>
+    <Slide Index="30">
+      <Text>十年磨剑</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="305947" End="307039" />
+    </Slide>
+    <Slide Index="31">
+      <Text>十风五雨</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="307348" End="308350" />
+    </Slide>
+    <Slide Index="32">
+      <Text>十拿九稳</Text>
+      <AudioSource>VCY2.mp3</AudioSource>
+      <TimeFrame Start="308596" End="309530" />
+    </Slide>
+  </Topic>
+  <Topic Index="11" Title="不怕困难">
+    <Slide Index="1">
+      <Text>乘风破浪</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="5336" End="6280" />
+    </Slide>
+    <Slide Index="2">
+      <Text>好事多磨</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="6542" End="7654" />
+    </Slide>
+    <Slide Index="3">
+      <Text>艰苦奋斗</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="7974" End="8950" />
+    </Slide>
+    <Slide Index="4">
+      <Text>精卫填海</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="9278" End="10320" />
+    </Slide>
+    <Slide Index="5">
+      <Text>人定胜天</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="10671" End="11799" />
+    </Slide>
+    <Slide Index="6">
+      <Text>事在人为</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="12037" End="13161" />
+    </Slide>
+    <Slide Index="7">
+      <Text>愚公移山</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="13493" End="14555" />
+    </Slide>
+    <Slide Index="8">
+      <Text>知难而进</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="14953" End="15991" />
+    </Slide>
+  </Topic>
+  <Topic Index="12" Title="不甘落后">
+    <Slide Index="1">
+      <Text>不甘后人</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="17139" End="18247" />
+    </Slide>
+    <Slide Index="2">
+      <Text>不甘示弱</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="18493" End="19559" />
+    </Slide>
+    <Slide Index="3">
+      <Text>奋起直追</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="19840" End="20991" />
+    </Slide>
+    <Slide Index="4">
+      <Text>急起直追</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="21397" End="22517" />
+    </Slide>
+  </Topic>
+  <Topic Index="13" Title="勤奋努力">
+    <Slide Index="1">
+      <Text>滴水穿石</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="22837" End="23848" />
+    </Slide>
+    <Slide Index="2">
+      <Text>克勤克俭</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="24106" End="25175" />
+    </Slide>
+    <Slide Index="3">
+      <Text>实至名归</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="25437" End="26643" />
+    </Slide>
+    <Slide Index="4">
+      <Text>孜孜不倦</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="26873" End="27880" />
+    </Slide>
+  </Topic>
+  <Topic Index="14" Title="严肃认真">
+    <Slide Index="1">
+      <Text>脚踏实地</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="29133" End="30152" />
+    </Slide>
+    <Slide Index="2">
+      <Text>精雕细刻</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="30495" End="31580" />
+    </Slide>
+    <Slide Index="3">
+      <Text>精益求精</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="31830" End="32935" />
+    </Slide>
+    <Slide Index="4">
+      <Text>下马看花</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="33110" End="34269" />
+    </Slide>
+  </Topic>
+  <Topic Index="15" Title="周密谨慎">
+    <Slide Index="1">
+      <Text>步步为营</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="34644" End="35620" />
+    </Slide>
+    <Slide Index="2">
+      <Text>两全其美</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="35870" End="36842" />
+    </Slide>
+    <Slide Index="3">
+      <Text>小心谨慎</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="37056" End="38134" />
+    </Slide>
+    <Slide Index="4">
+      <Text>小心翼翼</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="38372" End="39363" />
+    </Slide>
+  </Topic>
+  <Topic Index="16" Title="熟练">
+    <Slide Index="1">
+      <Text>得心应手</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="40440" End="41443" />
+    </Slide>
+    <Slide Index="2">
+      <Text>驾轻就熟</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="41740" End="42907" />
+    </Slide>
+    <Slide Index="3">
+      <Text>轻车熟路</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="43188" End="44250" />
+    </Slide>
+    <Slide Index="4">
+      <Text>心手相应</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="44566" End="45717" />
+    </Slide>
+  </Topic>
+  <Topic Index="17" Title="敏捷利落">
+    <Slide Index="1">
+      <Text>不假思索</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="46030" End="47021" />
+    </Slide>
+    <Slide Index="2">
+      <Text>动如脱兔</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="47271" End="48274" />
+    </Slide>
+    <Slide Index="3">
+      <Text>手疾眼快</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="48524" End="49617" />
+    </Slide>
+    <Slide Index="4">
+      <Text>眼明手快</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="49980" End="50950" />
+    </Slide>
+  </Topic>
+  <Topic Index="18" Title="办事灵活">
+    <Slide Index="1">
+      <Text>福至心灵</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="52005" End="53102" />
+    </Slide>
+    <Slide Index="2">
+      <Text>见机行事</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="53469" End="54558" />
+    </Slide>
+    <Slide Index="3">
+      <Text>临机应变</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="54901" End="55998" />
+    </Slide>
+    <Slide Index="4">
+      <Text>留有余地</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="56307" End="57317" />
+    </Slide>
+    <Slide Index="5">
+      <Text>随风转舵</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="57563" End="58633" />
+    </Slide>
+    <Slide Index="6">
+      <Text>随机应变</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="58863" End="59909" />
+    </Slide>
+    <Slide Index="7">
+      <Text>通权达变</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="60202" End="61244" />
+    </Slide>
+    <Slide Index="8">
+      <Text>相机行事</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="61451" End="62540" />
+    </Slide>
+    <Slide Index="9">
+      <Text>大刀阔斧</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="63664" End="64675" />
+    </Slide>
+    <Slide Index="10">
+      <Text>胆大心细</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="65116" End="66096" />
+    </Slide>
+    <Slide Index="11">
+      <Text>当机立断</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="66427" End="67333" />
+    </Slide>
+    <Slide Index="12">
+      <Text>见机而作</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="67715" End="68726" />
+    </Slide>
+  </Topic>
+  <Topic Index="19" Title="做事彻底">
+    <Slide Index="1">
+      <Text>抽薪止沸</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="69136" End="70245" />
+    </Slide>
+    <Slide Index="2">
+      <Text>翻箱倒柜</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="70490" End="71556" />
+    </Slide>
+    <Slide Index="3">
+      <Text>釜底抽薪</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="71825" End="72981" />
+    </Slide>
+    <Slide Index="4">
+      <Text>有始有终</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="73309" End="74327" />
+    </Slide>
+  </Topic>
+  <Topic Index="20" Title="尽心尽力">
+    <Slide Index="1">
+      <Text>不遗余力</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="75381" End="76447" />
+    </Slide>
+    <Slide Index="2">
+      <Text>不折不扣</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="76704" End="77719" />
+    </Slide>
+    <Slide Index="3">
+      <Text>竭尽全力</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="78051" End="79101" />
+    </Slide>
+    <Slide Index="4">
+      <Text>尽力而为</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="79425" End="80498" />
+    </Slide>
+    <Slide Index="5">
+      <Text>尽心竭力</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="80775" End="81786" />
+    </Slide>
+    <Slide Index="6">
+      <Text>全力以赴</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="82098" End="83121" />
+    </Slide>
+    <Slide Index="7">
+      <Text>全心全意</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="83457" End="84464" />
+    </Slide>
+    <Slide Index="8">
+      <Text>任劳任怨</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="84838" End="85810" />
+    </Slide>
+  </Topic>
+  <Topic Index="21" Title="粗心大意">
+    <Slide Index="1">
+      <Text>粗心大意</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="86880" End="87914" />
+    </Slide>
+    <Slide Index="2">
+      <Text>粗心浮气</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="88238" End="89327" />
+    </Slide>
+    <Slide Index="3">
+      <Text>粗枝大叶</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="89717" End="90787" />
+    </Slide>
+    <Slide Index="4">
+      <Text>打草惊蛇</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="91005" End="92122" />
+    </Slide>
+  </Topic>
+  <Topic Index="22" Title="畏缩过慎">
+    <Slide Index="1">
+      <Text>打退堂鼓</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="92508" End="93421" />
+    </Slide>
+    <Slide Index="2">
+      <Text>缩手缩脚</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="93702" End="94842" />
+    </Slide>
+    <Slide Index="3">
+      <Text>停滞不前</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="95256" End="96333" />
+    </Slide>
+    <Slide Index="4">
+      <Text>退避三舍</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="96692" End="97703" />
+    </Slide>
+  </Topic>
+  <Topic Index="23" Title="漠不关心">
+    <Slide Index="1">
+      <Text>不闻不问</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="98866" End="99772" />
+    </Slide>
+    <Slide Index="2">
+      <Text>麻木不仁</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="100084" End="101044" />
+    </Slide>
+    <Slide Index="3">
+      <Text>漫不经心</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="101446" End="102438" />
+    </Slide>
+    <Slide Index="4">
+      <Text>漠不关心</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="102906" End="103827" />
+    </Slide>
+  </Topic>
+  <Topic Index="24" Title="任其发展">
+    <Slide Index="1">
+      <Text>放任自流</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="104174" End="105224" />
+    </Slide>
+    <Slide Index="2">
+      <Text>任其自流</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="105482" End="106520" />
+    </Slide>
+    <Slide Index="3">
+      <Text>束手待毙</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="106797" End="107855" />
+    </Slide>
+    <Slide Index="4">
+      <Text>听天由命</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="108148" End="109225" />
+    </Slide>
+  </Topic>
+  <Topic Index="25" Title="得过且过">
+    <Slide Index="1">
+      <Text>不了了之</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="110501" End="111501" />
+    </Slide>
+    <Slide Index="2">
+      <Text>草草了事</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="111864" End="112914" />
+    </Slide>
+    <Slide Index="3">
+      <Text>草率收兵</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="113253" End="114397" />
+    </Slide>
+    <Slide Index="4">
+      <Text>粗枝大叶</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="114721" End="115716" />
+    </Slide>
+    <Slide Index="5">
+      <Text>得过且过</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="116200" End="117180" />
+    </Slide>
+    <Slide Index="6">
+      <Text>敷衍了事</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="117441" End="118495" />
+    </Slide>
+    <Slide Index="7">
+      <Text>苟且偷安</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="118940" End="119990" />
+    </Slide>
+    <Slide Index="8">
+      <Text>蜻蜓点水</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="120333" End="121364" />
+    </Slide>
+  </Topic>
+  <Topic Index="26" Title="迁就勉强">
+    <Slide Index="1">
+      <Text>勉为其难</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="122632" End="123635" />
+    </Slide>
+    <Slide Index="2">
+      <Text>强人所难</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="123959" End="125029" />
+    </Slide>
+    <Slide Index="3">
+      <Text>委曲求全</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="125322" End="126325" />
+    </Slide>
+    <Slide Index="4">
+      <Text>削足适履</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="126606" End="127593" />
+    </Slide>
+  </Topic>
+  <Topic Index="27" Title="做事不彻底">
+    <Slide Index="1">
+      <Text>半途而废</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="128136" End="129030" />
+    </Slide>
+    <Slide Index="2">
+      <Text>功亏一篑</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="129439" End="130333" />
+    </Slide>
+    <Slide Index="3">
+      <Text>虎头蛇尾</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="130661" End="131613" />
+    </Slide>
+    <Slide Index="4">
+      <Text>有头无尾</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="132000" End="132839" />
+    </Slide>
+  </Topic>
+  <Topic Index="28" Title="收获大">
+    <Slide Index="1">
+      <Text>开花结果</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="134061" End="135005" />
+    </Slide>
+    <Slide Index="2">
+      <Text>满载而归</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="135493" End="136528" />
+    </Slide>
+    <Slide Index="3">
+      <Text>事半功倍</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="136898" End="137933" />
+    </Slide>
+    <Slide Index="4">
+      <Text>一箭双雕</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="138382" End="139404" />
+    </Slide>
+  </Topic>
+  <Topic Index="29" Title="因小失大">
+    <Slide Index="1">
+      <Text>得不偿失</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="139751" End="140762" />
+    </Slide>
+    <Slide Index="2">
+      <Text>进寸退尺</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="141278" End="142312" />
+    </Slide>
+    <Slide Index="3">
+      <Text>贪小失大</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="142776" End="143826" />
+    </Slide>
+    <Slide Index="4">
+      <Text>因小失大</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="144143" End="145153" />
+    </Slide>
+  </Topic>
+  <Topic Index="30" Title="白费心机">
+    <Slide Index="1">
+      <Text>海底捞月</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="146352" End="147413" />
+    </Slide>
+    <Slide Index="2">
+      <Text>劳而无功</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="147726" End="148721" />
+    </Slide>
+    <Slide Index="3">
+      <Text>徒劳往返</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="149162" End="150056" />
+    </Slide>
+    <Slide Index="4">
+      <Text>枉费心机</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="150442" End="151457" />
+    </Slide>
+  </Topic>
+  <Topic Index="31" Title="事与愿违">
+    <Slide Index="1">
+      <Text>弄假成真</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="151875" End="152913" />
+    </Slide>
+    <Slide Index="2">
+      <Text>弄巧成拙</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="153213" End="154259" />
+    </Slide>
+    <Slide Index="3">
+      <Text>适得其反</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="154583" End="155579" />
+    </Slide>
+    <Slide Index="4">
+      <Text>事与愿违</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="156047" End="157163" />
+    </Slide>
+  </Topic>
+  <Topic Index="32" Title="合情合理">
+    <Slide Index="1">
+      <Text>理所当然</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="158182" End="159244" />
+    </Slide>
+    <Slide Index="2">
+      <Text>名正言顺</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="159579" End="160618" />
+    </Slide>
+    <Slide Index="3">
+      <Text>人之常情</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="160973" End="162034" />
+    </Slide>
+    <Slide Index="4">
+      <Text>入情入理</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="162382" End="163307" />
+    </Slide>
+  </Topic>
+  <Topic Index="33" Title="待人">
+    <Slide Index="1">
+      <Text>必恭必敬</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="163806" End="164790" />
+    </Slide>
+    <Slide Index="2">
+      <Text>宾至如归</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="165278" End="166375" />
+    </Slide>
+    <Slide Index="3">
+      <Text>平易近人</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="166667" End="167866" />
+    </Slide>
+    <Slide Index="4">
+      <Text>善气迎人</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="168147" End="169349" />
+    </Slide>
+    <Slide Index="5">
+      <Text>宽大为怀</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="170340" End="171351" />
+    </Slide>
+    <Slide Index="6">
+      <Text>温柔敦厚</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="171804" End="172788" />
+    </Slide>
+    <Slide Index="7">
+      <Text>以德报怨</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="173311" End="174279" />
+    </Slide>
+    <Slide Index="8">
+      <Text>以直报怨</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="174692" End="175668" />
+    </Slide>
+    <Slide Index="9">
+      <Text>诚心诚意</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="176090" End="177132" />
+    </Slide>
+    <Slide Index="10">
+      <Text>肝胆相照</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="177612" End="178681" />
+    </Slide>
+    <Slide Index="11">
+      <Text>金石为开</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="179118" End="180180" />
+    </Slide>
+    <Slide Index="12">
+      <Text>开诚相见</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="180559" End="181542" />
+    </Slide>
+    <Slide Index="13">
+      <Text>满腔热忱</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="182627" End="183673" />
+    </Slide>
+    <Slide Index="14">
+      <Text>胸无城府</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="184146" End="185172" />
+    </Slide>
+    <Slide Index="15">
+      <Text>真心诚意</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="185641" End="186577" />
+    </Slide>
+    <Slide Index="16">
+      <Text>真心实意</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="187022" End="187936" />
+    </Slide>
+  </Topic>
+  <Topic Index="34" Title="互相帮助">
+    <Slide Index="1">
+      <Text>风雨同舟</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="188295" End="189352" />
+    </Slide>
+    <Slide Index="2">
+      <Text>守望相助</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="189571" End="190543" />
+    </Slide>
+    <Slide Index="3">
+      <Text>同甘共苦</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="190918" End="191866" />
+    </Slide>
+    <Slide Index="4">
+      <Text>同舟共济</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="192342" End="193318" />
+    </Slide>
+  </Topic>
+  <Topic Index="35" Title="帮助他人">
+    <Slide Index="1">
+      <Text>爱莫能助</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="194481" End="195422" />
+    </Slide>
+    <Slide Index="2">
+      <Text>成人之美</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="195746" End="196768" />
+    </Slide>
+    <Slide Index="3">
+      <Text>扶老携幼</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="197135" End="198181" />
+    </Slide>
+    <Slide Index="4">
+      <Text>救死扶伤</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="198700" End="199907" />
+    </Slide>
+    <Slide Index="5">
+      <Text>乐善好施</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="200344" End="201487" />
+    </Slide>
+    <Slide Index="6">
+      <Text>雪中送炭</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="201725" End="202846" />
+    </Slide>
+    <Slide Index="7">
+      <Text>一臂之力</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="203240" End="204114" />
+    </Slide>
+    <Slide Index="8">
+      <Text>仗义疏财</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="204563" End="205632" />
+    </Slide>
+  </Topic>
+  <Topic Index="36" Title="关怀">
+    <Slide Index="1">
+      <Text>解衣推食</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="206784" End="207838" />
+    </Slide>
+    <Slide Index="2">
+      <Text>体贴入微</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="208162" End="209278" />
+    </Slide>
+    <Slide Index="3">
+      <Text>推己及人</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="209625" End="210628" />
+    </Slide>
+    <Slide Index="4">
+      <Text>无微不至</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="211027" End="211983" />
+    </Slide>
+  </Topic>
+  <Topic Index="37" Title="待人冷淡">
+    <Slide Index="1">
+      <Text>敬而远之</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="212322" End="213415" />
+    </Slide>
+    <Slide Index="2">
+      <Text>冷若冰霜</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="213716" End="214781" />
+    </Slide>
+    <Slide Index="3">
+      <Text>若即若离</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="215043" End="216104" />
+    </Slide>
+    <Slide Index="4">
+      <Text>视同路人</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="216386" End="217482" />
+    </Slide>
+  </Topic>
+  <Topic Index="38" Title="轻视">
+    <Slide Index="1">
+      <Text>不屑一顾</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="218989" End="219894" />
+    </Slide>
+    <Slide Index="2">
+      <Text>不以为然</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="220312" End="221319" />
+    </Slide>
+    <Slide Index="3">
+      <Text>付之一笑</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="221651" End="222709" />
+    </Slide>
+    <Slide Index="4">
+      <Text>恃才傲物</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="223036" End="224118" />
+    </Slide>
+  </Topic>
+  <Topic Index="39" Title="屈从顺从">
+    <Slide Index="1">
+      <Text>百依百顺</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="224539" End="225542" />
+    </Slide>
+    <Slide Index="2">
+      <Text>低三下四</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="225952" End="227018" />
+    </Slide>
+    <Slide Index="3">
+      <Text>低声下气</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="227447" End="228477" />
+    </Slide>
+    <Slide Index="4">
+      <Text>低首下心</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="228899" End="230004" />
+    </Slide>
+    <Slide Index="5">
+      <Text>惟命是从</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="231092" End="232166" />
+    </Slide>
+    <Slide Index="6">
+      <Text>唯唯喏喏</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="232474" End="233544" />
+    </Slide>
+    <Slide Index="7">
+      <Text>言听计从</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="233985" End="235101" />
+    </Slide>
+    <Slide Index="8">
+      <Text>做小伏低</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="235480" End="236518" />
+    </Slide>
+  </Topic>
+  <Topic Index="40" Title="知己投合">
+    <Slide Index="1">
+      <Text>如鱼得水</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="236873" End="237845" />
+    </Slide>
+    <Slide Index="2">
+      <Text>心心相印</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="238184" End="239328" />
+    </Slide>
+    <Slide Index="3">
+      <Text>意气相投</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="239675" End="240749" />
+    </Slide>
+    <Slide Index="4">
+      <Text>志同道合</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="241069" End="242127" />
+    </Slide>
+    <Slide Index="5">
+      <Text>打成一片</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="243227" End="244230" />
+    </Slide>
+    <Slide Index="6">
+      <Text>分甘共苦</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="244508" End="245573" />
+    </Slide>
+    <Slide Index="7">
+      <Text>骨肉相连</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="245987" End="247013" />
+    </Slide>
+    <Slide Index="8">
+      <Text>难解难分</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="247322" End="248321" />
+    </Slide>
+  </Topic>
+  <Topic Index="41" Title="同心团结">
+    <Slide Index="1">
+      <Text>步调一致</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="248735" End="249718" />
+    </Slide>
+    <Slide Index="2">
+      <Text>患难与共</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="250058" End="251061" />
+    </Slide>
+    <Slide Index="3">
+      <Text>齐心协力</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="251408" End="252443" />
+    </Slide>
+    <Slide Index="4">
+      <Text>群策群力</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="252786" End="253887" />
+    </Slide>
+    <Slide Index="5">
+      <Text>通力合作</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="254929" End="255881" />
+    </Slide>
+    <Slide Index="6">
+      <Text>同心协力</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="256190" End="257161" />
+    </Slide>
+    <Slide Index="7">
+      <Text>万众一心</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="257532" End="258508" />
+    </Slide>
+    <Slide Index="8">
+      <Text>一心一德</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="258902" End="259827" />
+    </Slide>
+  </Topic>
+  <Topic Index="42" Title="友谊">
+    <Slide Index="1">
+      <Text>和睦相处</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="260093" End="261053" />
+    </Slide>
+    <Slide Index="2">
+      <Text>山高水长</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="261432" End="262481" />
+    </Slide>
+    <Slide Index="3">
+      <Text>深情厚谊</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="262868" End="263910" />
+    </Slide>
+    <Slide Index="4">
+      <Text>一往情深</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="264285" End="265237" />
+    </Slide>
+  </Topic>
+  <Topic Index="43" Title="交往">
+    <Slide Index="1">
+      <Text>不速之客</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="266248" End="267243" />
+    </Slide>
+    <Slide Index="2">
+      <Text>待人接物</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="267622" End="268539" />
+    </Slide>
+    <Slide Index="3">
+      <Text>逢场作戏</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="268863" End="269999" />
+    </Slide>
+    <Slide Index="4">
+      <Text>礼尚往来</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="270342" End="271392" />
+    </Slide>
+  </Topic>
+  <Topic Index="44" Title="对立">
+    <Slide Index="1">
+      <Text>不通水火</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="271755" End="272719" />
+    </Slide>
+    <Slide Index="2">
+      <Text>格格不入</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="273125" End="273957" />
+    </Slide>
+    <Slide Index="3">
+      <Text>势不两立</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="274316" End="275409" />
+    </Slide>
+    <Slide Index="4">
+      <Text>针锋相对</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="275764" End="276849" />
+    </Slide>
+  </Topic>
+  <Topic Index="45" Title="争斗争夺">
+    <Slide Index="1">
+      <Text>勾心斗角</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="277914" End="278949" />
+    </Slide>
+    <Slide Index="2">
+      <Text>两虎相争</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="279331" End="280358" />
+    </Slide>
+    <Slide Index="3">
+      <Text>龙争虎斗</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="280772" End="281790" />
+    </Slide>
+    <Slide Index="4">
+      <Text>明争暗斗</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="282118" End="283074" />
+    </Slide>
+  </Topic>
+  <Topic Index="46" Title="争辩服从">
+    <Slide Index="1">
+      <Text>各持己见</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="283515" End="284530" />
+    </Slide>
+    <Slide Index="2">
+      <Text>各执一词</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="284874" End="285900" />
+    </Slide>
+    <Slide Index="3">
+      <Text>黑白分明</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="286142" End="287239" />
+    </Slide>
+    <Slide Index="4">
+      <Text>讨价还价</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="287723" End="288714" />
+    </Slide>
+  </Topic>
+  <Topic Index="47" Title="和好如初">
+    <Slide Index="1">
+      <Text>涣然冰释</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="290057" End="291142" />
+    </Slide>
+    <Slide Index="2">
+      <Text>开云见日</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="291419" End="292442" />
+    </Slide>
+    <Slide Index="3">
+      <Text>握手言欢</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="292813" End="293835" />
+    </Slide>
+    <Slide Index="4">
+      <Text>言归于好</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="294151" End="295123" />
+    </Slide>
+  </Topic>
+  <Topic Index="48" Title="分离">
+    <Slide Index="1">
+      <Text>分道扬镳</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="295478" End="296571" />
+    </Slide>
+    <Slide Index="2">
+      <Text>各奔前程</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="296895" End="297926" />
+    </Slide>
+    <Slide Index="3">
+      <Text>劳燕分飞</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="298261" End="299268" />
+    </Slide>
+    <Slide Index="4">
+      <Text>生离死别</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="299487" End="300650" />
+    </Slide>
+  </Topic>
+  <Topic Index="49" Title="学习态度">
+    <Slide Index="1">
+      <Text>废寝忘餐</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="301997" End="303148" />
+    </Slide>
+    <Slide Index="2">
+      <Text>目不转睛</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="303507" End="304545" />
+    </Slide>
+    <Slide Index="3">
+      <Text>全神贯注</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="304776" End="305837" />
+    </Slide>
+    <Slide Index="4">
+      <Text>专心致志</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="306157" End="307161" />
+    </Slide>
+  </Topic>
+  <Topic Index="50" Title="刻苦勤奋">
+    <Slide Index="1">
+      <Text>耳熟能详</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="307520" End="308577" />
+    </Slide>
+    <Slide Index="2">
+      <Text>积沙成塔</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="308964" End="310061" />
+    </Slide>
+    <Slide Index="3">
+      <Text>积少成多</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="310349" End="311434" />
+    </Slide>
+    <Slide Index="4">
+      <Text>勤学苦练</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="311758" End="312918" />
+    </Slide>
+    <Slide Index="5">
+      <Text>十年寒窗</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="313979" End="315150" />
+    </Slide>
+    <Slide Index="6">
+      <Text>手不释卷</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="315384" End="316415" />
+    </Slide>
+    <Slide Index="7">
+      <Text>学而不厌</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="316817" End="317832" />
+    </Slide>
+    <Slide Index="8">
+      <Text>有志竟成</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="318117" End="319131" />
+    </Slide>
+    <Slide Index="9">
+      <Text>不耻下问</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="319572" End="320533" />
+    </Slide>
+    <Slide Index="10">
+      <Text>程门立雪</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="320989" End="322028" />
+    </Slide>
+    <Slide Index="11">
+      <Text>截长补短</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="322422" End="323409" />
+    </Slide>
+    <Slide Index="12">
+      <Text>取长补短</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="323784" End="324764" />
+    </Slide>
+  </Topic>
+  <Topic Index="51" Title="学习态度、方法">
+    <Slide Index="1">
+      <Text>登堂入室</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="325907" End="326891" />
+    </Slide>
+    <Slide Index="2">
+      <Text>去粗取精</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="327273" End="328433" />
+    </Slide>
+    <Slide Index="3">
+      <Text>融会贯通</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="328725" End="329771" />
+    </Slide>
+    <Slide Index="4">
+      <Text>循序渐进</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="330134" End="331317" />
+    </Slide>
+  </Topic>
+  <Topic Index="52" Title="学习结果、目的">
+    <Slide Index="1">
+      <Text>滚瓜烂熟</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="331871" End="332917" />
+    </Slide>
+    <Slide Index="2">
+      <Text>含英咀华</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="333128" End="334217" />
+    </Slide>
+    <Slide Index="3">
+      <Text>金榜题名</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="334451" End="335486" />
+    </Slide>
+    <Slide Index="4">
+      <Text>望子成龙</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="335743" End="336770" />
+    </Slide>
+  </Topic>
+  <Topic Index="53" Title="写作才能">
+    <Slide Index="1">
+      <Text>别出心裁</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="337917" End="338963" />
+    </Slide>
+    <Slide Index="2">
+      <Text>出神入化</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="339213" End="340201" />
+    </Slide>
+    <Slide Index="3">
+      <Text>呕心沥血</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="340489" End="341446" />
+    </Slide>
+    <Slide Index="4">
+      <Text>生花妙笔</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="341668" End="342726" />
+    </Slide>
+    <Slide Index="5">
+      <Text>手不停挥</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="343034" End="344147" />
+    </Slide>
+    <Slide Index="6">
+      <Text>脱胎换骨</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="344455" End="345454" />
+    </Slide>
+    <Slide Index="7">
+      <Text>文如其人</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="345848" End="346836" />
+    </Slide>
+    <Slide Index="8">
+      <Text>下笔成章</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="347086" End="348171" />
+    </Slide>
+  </Topic>
+  <Topic Index="54" Title="人多热闹">
+    <Slide Index="1">
+      <Text>大庭广众</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="349201" End="350173" />
+    </Slide>
+    <Slide Index="2">
+      <Text>蜂拥而来</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="350509" End="351504" />
+    </Slide>
+    <Slide Index="3">
+      <Text>高朋满座</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="351769" End="352769" />
+    </Slide>
+    <Slide Index="4">
+      <Text>座无虚席</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="353054" End="354119" />
+    </Slide>
+  </Topic>
+  <Topic Index="55" Title="风景秀美">
+    <Slide Index="1">
+      <Text>鸟语花香</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="354388" End="355431" />
+    </Slide>
+    <Slide Index="2">
+      <Text>五光十色</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="355754" End="356765" />
+    </Slide>
+    <Slide Index="3">
+      <Text>五色缤纷</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="357000" End="358116" />
+    </Slide>
+    <Slide Index="4">
+      <Text>五颜六色</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="358377" End="359416" />
+    </Slide>
+  </Topic>
+  <Topic Index="56" Title="破败景象">
+    <Slide Index="1">
+      <Text>惨不忍睹</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="360462" End="361500" />
+    </Slide>
+    <Slide Index="2">
+      <Text>惨绝人寰</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="361785" End="362889" />
+    </Slide>
+    <Slide Index="3">
+      <Text>疮痍满目</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="363178" End="364135" />
+    </Slide>
+    <Slide Index="4">
+      <Text>千疮百孔</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="364314" End="365309" />
+    </Slide>
+  </Topic>
+  <Topic Index="57" Title="时间长久">
+    <Slide Index="1">
+      <Text>长年累月</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="365579" End="366590" />
+    </Slide>
+    <Slide Index="2">
+      <Text>地老天荒</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="366894" End="367897" />
+    </Slide>
+    <Slide Index="3">
+      <Text>积年累月</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="368221" End="369236" />
+    </Slide>
+    <Slide Index="4">
+      <Text>来日方长</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="369454" End="370504" />
+    </Slide>
+  </Topic>
+  <Topic Index="58" Title="时间段暂">
+    <Slide Index="1">
+      <Text>曾几何时</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="371558" End="372749" />
+    </Slide>
+    <Slide Index="2">
+      <Text>好景不常</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="372870" End="373955" />
+    </Slide>
+    <Slide Index="3">
+      <Text>一朝一夕</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="374208" End="375165" />
+    </Slide>
+    <Slide Index="4">
+      <Text>指日可待</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="375418" End="376453" />
+    </Slide>
+  </Topic>
+  <Topic Index="59" Title="丰富多彩">
+    <Slide Index="1">
+      <Text>丰富多彩</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="376703" End="377846" />
+    </Slide>
+    <Slide Index="2">
+      <Text>林林总总</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="378123" End="379142" />
+    </Slide>
+    <Slide Index="3">
+      <Text>琳琅满目</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="379497" End="380524" />
+    </Slide>
+    <Slide Index="4">
+      <Text>五花八门</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="380918" End="381823" />
+    </Slide>
+  </Topic>
+  <Topic Index="60" Title="发展迅猛">
+    <Slide Index="1">
+      <Text>遍地开花</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="383026" End="384130" />
+    </Slide>
+    <Slide Index="2">
+      <Text>层出不穷</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="384427" End="385555" />
+    </Slide>
+    <Slide Index="3">
+      <Text>如日方中</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="385816" End="386901" />
+    </Slide>
+    <Slide Index="4">
+      <Text>突飞猛进</Text>
+      <AudioSource>VCY3.mp3</AudioSource>
+      <TimeFrame Start="387179" End="388271" />
+    </Slide>
+  </Topic>
+</root>
