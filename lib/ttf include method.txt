@@ -1,0 +1,9 @@
+<style>
+	p{
+		font-family:singleStoreyA;
+	}
+	@font-face{
+		font-family: singleStoreyA;
+		src: url(ArchitectsDaughter.ttf);
+	}
+</style>
