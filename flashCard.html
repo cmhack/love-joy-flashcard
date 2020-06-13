@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/flashCard-html.css">
+	
+	<script type="text/javascript" src="js/lib/angular.js"></script>
+	<script type="text/javascript" src="js/lib/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="js/lib/bootstrap.min.js"></script>
+	
+	<script type="text/javascript" src="js/app.js"></script>
+	<script type="text/javascript" src="js/controller/FlashCardCtrl.js"></script>
+
+	<style>
+		@font-face {
+			font-family: ArchitectsDaughter;
+			src: url(ArchitectsDaughter.ttf);
+		}
+	</style>
+	
+</head>
+<body ng-app="app" ng-controller="FlashCardCtrl">
+	<div id="backgroundImage" class="container-fluid">
+		
+		<div class="topBar">
+			<a href="index.html"><img src="img/button/previous.PNG" style="float:right"/></a>
+			<span class="title">Flash Cards</span>
+			<img src="img/button/sound.png" ng-show="soundON" ng-click="playAudio(false); soundON = false" style="float:right"/>
+			<img src="img/button/sound_mute.png" ng-show="!soundON" ng-click="playAudio(true); soundON = true" style="float:right"/>
+		</div>
+		
+		<table class="mainContent">
+			<tr>
+				<td style="width:50%; padding:1%">
+					<a href="selectedFlashCard.html?cardID={{menu.id}}" ng-repeat="menu in menuList1" style="text-decoration:none">
+						<div class="menuListItem KaiTiFont" style="background:#FF9999">
+							{{menu.title}}
+						</div>
+					</a>
+				</td>
+				<td style="width:50%; padding:1%">
+					<a href="selectedFlashCard.html?cardID={{menu.id}}" ng-repeat="menu in menuList2" style="text-decoration:none">
+						<div class="menuListItem KaiTiFont" style="background:#FFFF99">
+							{{menu.title}}
+						</div>
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td style="width:50%; padding:1%">
+					<a href="selectedFlashCard.html?cardID={{menu.id}}" ng-repeat="menu in menuList3" style="text-decoration:none">
+						<div class="menuListItem" style="background:#99FFFF">
+							{{menu.title}}
+						</div>
+					</a>
+				</td>
+				<td style="width:50%; padding:1%">
+					<a href="selectedFlashCard.html?cardID={{menu.id}}" ng-repeat="menu in menuList4" style="text-decoration:none">
+						<div class="menuListItem" style="background:#99FF99">
+							{{menu.title}}
+						</div>
+					</a>
+				</td>
+			</tr>
+		</table>
+
+		
+	</div>
+	
+</body>
+</html>
