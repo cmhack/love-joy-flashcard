@@ -1,0 +1,76 @@
+#backgroundImage{
+	background: url("../img/background/2.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.mainContent{
+	width:80%;
+	height:auto;
+	padding:1%;
+	margin: 0 auto;
+	font-family: "ArchitectsDaughter";
+}
+
+.title{
+	background:#EEEEEE;
+	border-radius: 10px;
+	box-shadow: 0px 5px 5px #666666;
+	padding:1%;
+	font-family: "ArchitectsDaughter";
+}
+
+.topBar{
+	height:15%;
+	padding: 1%;
+	text-align:center;
+	font-size: 250%;
+	font-family: "ArchitectsDaughter";
+}
+
+.topBar img{
+	width: 5%;
+	height:auto;
+	transition: all .2s ease-in-out;
+}
+
+.topBar img:hover{
+	transform: scale(1.25);
+}
+
+.listItem{
+	background: white;
+	width: 100%;
+	padding: 1%;
+	font-size: 125%;
+	margin-top: 1%;
+	transition: all .2s ease-in-out;
+	text-decoration: none;
+	font-family: "ArchitectsDaughter";
+}
+
+.listItem a{
+	color:black;
+}
+
+.listItem:hover, .listItem a:hover{
+	background: green;
+	color:white;
+	transform: scale(1.1);
+}
+
+.navigationButton img{
+	width:50%;
+	margin-top: 75%;
+	transition: all .2s ease-in-out;
+}
+
+.navigationButton img:hover{
+	transform: scale(1.25);
+}
+.KaiTiFont{
+	font-family: KaiTi;
+	font-size:200%;
+}

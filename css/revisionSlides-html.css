@@ -1,0 +1,99 @@
+.topBar{
+	height:15%;
+	padding: 1%;
+	text-align:center;
+	font-size: 100%;
+	font-family: "ArchitectsDaughter";
+}
+
+.topBar img{
+	width: 5%;
+	height:auto;
+	transition: all .2s ease-in-out;
+}
+
+.topBar img:hover{
+	transform: scale(1.25);
+}
+
+.cardContent{
+	background:white;
+	text-align:center;
+	width:70%;
+	margin: 0 auto;
+	padding:1%;
+	border-radius: 10px;
+	box-shadow: 0px 0px 20px #666666;
+	font-family: "ArchitectsDaughter";
+}
+
+.mainContent{
+	width:100%;
+	height:100%;
+	font-family: "ArchitectsDaughter";
+}
+
+.mainContent tr{
+	height: 50%;
+}
+
+.wordBox{
+	width:100%;
+	height: 100%;
+	border-radius: 10px;
+	border: 1px solid black;
+	padding:3%;
+	font-size: 700%;
+	font-family: "ArchitectsDaughter";
+}
+
+.wordOption{
+	width:100%;
+	height: 100%;
+	border-radius: 10px;
+	box-shadow: 0px 5px 5px #666666;
+	padding: 3%;
+	font-size: 700%;
+	font-family: "ArchitectsDaughter";
+	background: #EEEEEE;
+}
+
+.wordOption:hover{
+	background: yellow;
+}
+
+.iconImage{
+	width:40%;
+	transition: all .2s ease-in-out;
+}
+.iconImage:hover{
+	transform: scale(1.25);
+}
+
+.imageOption{
+	border-radius: 10px;
+	box-shadow: 0px 5px 5px #666666;
+	font-size: 275%;
+	font-family: "ArchitectsDaughter";
+	padding: 1%;
+	background: #EEEEEE;
+	margin-top: 5%;
+}
+
+.slideImageDiv{
+	width: 50%;
+	height: 450px;
+}
+
+#slideImage{
+	width:100%;
+	height: auto;
+}
+
+.imageOption:hover{
+	background: yellow;
+}
+
+.KaiTiFont{
+	font-family: KaiTi;
+}
