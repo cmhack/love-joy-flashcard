@@ -4,7 +4,7 @@ app.controller('FlashCardCtrl', function($scope, $http){
 	
 	$scope.soundON = true;
 	
-	var audio = new Audio('../audio/Fast Track.mp3');
+	var audio = new Audio('audio/Fast Track.mp3');
 	audio.play();
 	
 	$scope.playAudio = function(param){
