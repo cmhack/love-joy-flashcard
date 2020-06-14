@@ -6,7 +6,7 @@ app.controller('SelectedFlashCardCtrl', function($scope){
 	$scope.firstIndex = 0 ;
 	$scope.lastIndex = 1;
 	
-	var audio = new Audio('../audio/Fast Track.mp3');
+	var audio = new Audio('audio/Fast Track.mp3');
 	audio.play();
 	
 	$scope.playAudio = function(param){
