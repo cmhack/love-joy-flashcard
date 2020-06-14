@@ -88,7 +88,7 @@ app.controller('FlashCardSlidesCtrl', function($scope, $interval, $timeout, $win
 	$scope.playAudio = function(param){
 		
 		if(!$scope.audioPlayed){
-			var audio = new Audio('../audio/'+param.AudioSource);
+			var audio = new Audio('audio/'+param.AudioSource);
 			audio.currentTime = param.TimeFrame._Start / 1000; //-- the data is in millisecond, change to second
 			audio.playbackRate = 1*speed;
 
