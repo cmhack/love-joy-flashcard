@@ -44,19 +44,19 @@ app.controller('SelectedFlashCardCtrl', function($scope){
 		$scope.cardID = parseInt(getURLParameter('cardID'), 10);
 		
 		if( ($scope.cardID == 1) || ($scope.cardID == 2) || ($scope.cardID == 3)){
-			document.getElementById("backgroundImage").style.background = "url('../img/background/Idiom.jpg')no-repeat center center fixed";
+			document.getElementById("backgroundImage").style.background = "url('img/background/Idiom.jpg')no-repeat center center fixed";
 			document.getElementById("backgroundImage").style.backgroundSize = "cover";
 		}
 		else if( ($scope.cardID == 4) || ($scope.cardID == 5) || ($scope.cardID == 6)){
-			document.getElementById("backgroundImage").style.background = "url('../img/background/Chinese.jpg')no-repeat center center fixed";
+			document.getElementById("backgroundImage").style.background = "url('img/background/Chinese.jpg')no-repeat center center fixed";
 			document.getElementById("backgroundImage").style.backgroundSize = "cover";
 		}
 		else if( ($scope.cardID == 7) || ($scope.cardID == 8) || ($scope.cardID == 9)){
-			document.getElementById("backgroundImage").style.background = "url('../img/background/Malay.jpg')no-repeat center center fixed";
+			document.getElementById("backgroundImage").style.background = "url('img/background/Malay.jpg')no-repeat center center fixed";
 			document.getElementById("backgroundImage").style.backgroundSize = "cover";
 		}
 		else if( ($scope.cardID == 10) || ($scope.cardID == 11) || ($scope.cardID == 12)){
-			document.getElementById("backgroundImage").style.background = "url('../img/background/English.jpg')no-repeat center center fixed";
+			document.getElementById("backgroundImage").style.background = "url('img/background/English.jpg')no-repeat center center fixed";
 			document.getElementById("backgroundImage").style.backgroundSize = "cover";
 		}
 		
