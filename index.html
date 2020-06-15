@@ -27,11 +27,22 @@
 			<img src="img/button/sound_mute.png" ng-show="!soundON" ng-click="playAudio(true); soundON = true"/>
 		</div>
 			
-		<a href="flashCard.html"><button class="homePageBtn">Flash Cards</button></a>
-		</br>
-		<div>
+		<div class="wrapper fadeInDown">
+			<div id="formContent">
+				<div class="fadeIn first">
+      				<img src="img/goodland_logo.png" class="logo" id="icon" alt="User Icon" />
+    			</div>
+				<form>
+					<input type="text" id="login" class="fadeIn first" name="login" placeholder="login ID">
+					<input type="text" id="password" class="fadeIn second" name="password" placeholder="Password">
+					<input type="button" id ="submit" class="fadeIn third" value="Log In" ng-click="validate()">
+				</form>
+			</div>
+		</div>
+		<!-- </br> -->
+		<!-- <div>
 			<img src="img/goodland_logo.png" class="logo"/>
-		</div> 
+		</div>  -->
 		<!--<a href="revision.html"><button class="homePageBtn">Activities</button></a> -->
 	</div>
 </body>
