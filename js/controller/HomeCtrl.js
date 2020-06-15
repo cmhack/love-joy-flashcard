@@ -31,7 +31,7 @@ app.controller('HomeCtrl', function($scope){
 		else{
 			attempt --;
 			// alert("Wrong Login id or password!")
-			alert("Wrong Login id or password! \n \n You still have left "+attempt+" attempt.");
+			alert("Wrong login id or password! \n \n You still have left "+attempt+" attempt.");
 			if(attempt == 0){
 				document.getElementById("login").disabled = true;
 				document.getElementById("password").disabled = true;
