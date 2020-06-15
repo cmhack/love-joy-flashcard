@@ -1,15 +1,6 @@
 app.controller('FlashCardSlidesCtrl', function($scope, $interval, $timeout, $window){
 
 	document.getElementById('flashCardSlides').style.height = (window.innerHeight * 0.75).toString() + 'px';
-
-	var speed = 1.0;
-	document.getElementById("button"+speed).disabled = true;
-
-	$scope.speed = function(param){
-		document.getElementById("button"+speed).disabled = false;
-		document.getElementById("button"+param).disabled = true;
-		speed = param;
-	}
 	
 	function setAnimation(){
 		document.getElementById('flashCardSlides').className = 'slide slideInDown animated';
@@ -17,7 +8,7 @@ app.controller('FlashCardSlidesCtrl', function($scope, $interval, $timeout, $win
 			document.getElementById('flashCardSlides').className = "slide";
 			$scope.playAudio($scope.slides[$scope.currentIndex]);
 			$timeout.cancel(timer);
-		},1000/speed);
+		},1000);
 	}
 	
 	$scope.autoPlaySlide = function(bool, direction){
@@ -77,7 +68,7 @@ app.controller('FlashCardSlidesCtrl', function($scope, $interval, $timeout, $win
 					
 				}
 				
-			},2000/speed);
+			},1800);
 		}
 		else{
 			$interval.cancel($scope.slideInterval);
