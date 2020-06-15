@@ -68,7 +68,7 @@ app.controller('FlashCardSlidesCtrl', function($scope, $interval, $timeout, $win
 					
 				}
 				
-			},1800);
+			},2700);
 		}
 		else{
 			$interval.cancel($scope.slideInterval);
