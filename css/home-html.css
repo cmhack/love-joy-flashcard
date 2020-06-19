@@ -24,6 +24,15 @@
 	transform: scale(1.25);
 }
 
+.title{
+  background:#EEEEEE;
+  border-radius: 10px;
+  box-shadow: 0px 5px 5px #666666;
+  padding:1%;
+  font-family: "ArchitectsDaughter";
+  text-align: center;
+}
+
 .homePageBtn {
 	border-radius: 10px;
 	box-shadow: 0px 5px 5px #666666;

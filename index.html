@@ -22,7 +22,8 @@
 </head>
 <body ng-app="app" ng-controller="HomeCtrl">
 	<div id="backgroundImage">
-		<div class="topBar">
+		<div class="topBar container-fluid">
+			<span class="title col-xs-2 col-xs-offset-5">Flash Card</span>
 			<img src="img/button/sound.png" ng-show="soundON" ng-click="playAudio(false); soundON = false"/>
 			<img src="img/button/sound_mute.png" ng-show="!soundON" ng-click="playAudio(true); soundON = true"/>
 		</div>
