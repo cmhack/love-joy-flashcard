@@ -74,7 +74,7 @@ app.controller('SelectedFlashCardCtrl', function($scope){
 			$scope.list2 = [];
 			
 			$.ajax({
-				url: "idioms.json",
+				url: "Idioms.json",
 				beforeSend: function(xhr){xhr.overrideMimeType("application/json");},
 				dataType: "json",
 				success: function(data){
@@ -106,7 +106,7 @@ app.controller('SelectedFlashCardCtrl', function($scope){
 			$scope.list2 = [];
 			
 			$.ajax({
-				url: "idioms.json",
+				url: "Idioms.json",
 				beforeSend: function(xhr){xhr.overrideMimeType("application/json");},
 				dataType: "json",
 				success: function(data){
@@ -138,7 +138,7 @@ app.controller('SelectedFlashCardCtrl', function($scope){
 			$scope.list2 = [];
 			
 			$.ajax({
-				url: "idioms.json",
+				url: "Idioms.json",
 				beforeSend: function(xhr){xhr.overrideMimeType("application/json");},
 				dataType: "json",
 				success: function(data){
