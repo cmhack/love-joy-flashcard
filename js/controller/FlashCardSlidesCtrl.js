@@ -242,7 +242,7 @@ app.controller('FlashCardSlidesCtrl', function($scope, $interval, $timeout, $win
 			$scope.autoPlay = false;
 			
 			$.ajax({
-				url: "idioms.json",
+				url: "Idioms.json",
 				beforeSend: function(xhr){xhr.overrideMimeType("application/json");},
 				dataType: "json",
 				success: function(data){
@@ -278,7 +278,7 @@ app.controller('FlashCardSlidesCtrl', function($scope, $interval, $timeout, $win
 			$scope.autoPlay = false;
 			
 			$.ajax({
-				url: "idioms.json",
+				url: "Idioms.json",
 				beforeSend: function(xhr){xhr.overrideMimeType("application/json");},
 				dataType: "json",
 				success: function(data){
@@ -314,7 +314,7 @@ app.controller('FlashCardSlidesCtrl', function($scope, $interval, $timeout, $win
 			$scope.autoPlay = false;
 			
 			$.ajax({
-				url: "idioms.json",
+				url: "Idioms.json",
 				beforeSend: function(xhr){xhr.overrideMimeType("application/json");},
 				dataType: "json",
 				success: function(data){
