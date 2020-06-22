@@ -1,6 +1,7 @@
 app.controller('FlashCardCtrl', function($scope, $http){
 	
 	document.getElementById("backgroundImage").style.height = window.innerHeight + "px";
+	document.addEventListener('contextmenu', event => event.preventDefault());
 	
 	$scope.soundON = true;
 	

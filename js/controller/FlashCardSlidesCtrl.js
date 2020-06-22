@@ -1,6 +1,7 @@
 app.controller('FlashCardSlidesCtrl', function($scope, $interval, $timeout, $window){
 
 	document.getElementById('flashCardSlides').style.height = (window.innerHeight * 0.75).toString() + 'px';
+	document.addEventListener('contextmenu', event => event.preventDefault());
 	
 	function setAnimation(){
 		document.getElementById('flashCardSlides').className = 'slide slideInDown animated';
